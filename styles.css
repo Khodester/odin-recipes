@@ -1,11 +1,17 @@
 .title {
-    font-size: 36px;
+    font-size: 24px;
     font-weight: bold;
-    font-family: Helvetica, Verdana, Tahoma, sans-serif;
-    color: #2810ff;
+    font-family:  Tahoma, sans-serif;
+    color: #000000;
 }
-
+.recipe {
+    text-align: center;
+}
 .button {
-    background-color: khaki;
+    background-color: rgb(255, 247, 171);
     color: black;
+}
+div.image {
+    display: flex;
+    justify-content: center;
 }
