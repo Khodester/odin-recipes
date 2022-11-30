@@ -1,0 +1,11 @@
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Helvetica, Verdana, Tahoma, sans-serif;
+    color: #2810ff;
+}
+
+.button {
+    background-color: khaki;
+    color: black;
+}
