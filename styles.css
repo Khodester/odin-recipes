@@ -8,10 +8,13 @@
     text-align: center;
 }
 .button {
-    background-color: rgb(255, 247, 171);
+    background-color: rgb(0, 196, 69);
     color: black;
 }
 div.image {
     display: flex;
     justify-content: center;
+}
+.homepage {
+    text-align: center;
 }
